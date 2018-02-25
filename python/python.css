@@ -13,8 +13,6 @@
     width: 970px;
     height: 450px;
     background-color: #2E5073; 
-
- 
     text-align: center;
 }
     .search a {
@@ -35,13 +33,11 @@
     .side-nav li {
         list-style-type: none;
         margin: 10px 0px 0 60px;
-      
         font-size: 15px;
     }
     .side-nav a {
         color: white;
-    }
-    
+    }  
     .overview {
         width: 600px;
         height: 200px;
@@ -61,14 +57,12 @@
     .overview li {
         margin-top: 5px;
     }
-
     .mainContent h2 {
         font-size: 15px;
         color:#FDFDFD;
         margin-left: 70px;
         margin-top: 15px;
     }
-
 .menuContainer {
     width: 842px;
     height: 50px;
@@ -156,7 +150,7 @@
 }
 .emphasis{
     color:#7DA6D1;
-    font-size:13px;
+    font-size:14px;
 }
 .details h2 {
     padding: 5px;
