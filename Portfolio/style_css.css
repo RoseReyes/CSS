@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    height: 970px;
+    width: 970px;
+    background-color: #F7F7F7;
+    margin: 0 auto;
+}
+    header {
+        width: 100%;
+        height: 65px;
+        background-color: #F7F7F7;
+    }
+    .name {
+        padding: 30px;
+        display:inline-block;
+        vertical-align: top;
+        line-height: 10px;
+    }
+    .title {
+        padding: 30px;
+        display:inline-block;
+        vertical-align: top;
+        margin-left: 300px;
+        font-size: 25px;
+        line-height: 20px;
+    }
+    .main-content {
+        width: 950px;
+        height: 860px;
+        background: linear-gradient(#1C0F12,#5C4B54);
+        padding: 10px;
+    }
+    .profile-pic {
+        width: 420px;
+        height: 200px;
+        display: inline-block;
+        vertical-align: top;
+        background-image: url('photo_of_me.jpg');
+        border: 3px solid grey;
+        background-repeat: none;
+        background-size: 400px;
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-left: 35px;
+    }
+    .about-me {
+        width: 420px;
+        height: 205px;
+        display: inline-block;
+        vertical-align: top;
+        background-color: #EBE4EB;
+        margin-top: 20px; 
+    }
+    .about-header{
+        width: 420px;
+        height: 50px;
+        background: linear-gradient(rgb(172, 161, 165),rgb(180, 176, 202),grey);
+        color: #FFFF;
+        font-size: 30px;
+        line-height: 45px;  
+    }
+    .title-about p {
+        font-size: 25px;
+        padding: 10px;
+    }
+    .details {
+        padding: 5px;
+        margin-top: 10px;
+    }
+    .portfolio {
+        width: 880px;
+        height: 600px;
+        margin-top: 15px;
+        margin-left: 25px;
+    }
+    .portfolioBody {
+        width: 270px;
+        height: 600px;
+        background-color: #EBE4EB;
+        display:inline-block;
+        vertical-align: top;
+        margin: 10px;
+    }
+    .portfolioTitle {
+        width: 250px;
+        height: 25px;
+        background: linear-gradient(rgb(172, 161, 165),rgb(180, 176, 202),grey);
+        color: #FFFF;
+        font-size: 15px;
+        padding: 10px;
+        line-height: 19px;
+    }
+    .portfolioTech {
+        font-size: 13px;
+        color: #FFFF;
+        padding: 15px;
+        line-height: 19px;
+        background: linear-gradient(rgb(172, 161, 165),rgb(180, 176, 202),grey);
+    }
+    .portfolioBody p {
+        margin-top: 10px;
+        margin-bottom: 30px;
+        padding: 5px;
+    }
+    .portfolioImage {
+        width: 270px;
+        height: 150px;
+    }
+    .icons {
+        width: 35px;
+        height: 35px;
+        margin: 6px;
+        display:inline-block;
+        vertical-align: top;
+    }
+    .button-lamode {
+        margin-top: 20px;
+        margin-right:35px;
+        margin-left: 90px;
+        width: 65px;
+        height: 30px;
+        border-color: 2px solid rgb(3, 3, 3);
+        border-radius: 12px;
+        background-color: #4F7B63;
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2), 5px 6px 6px 0 rgba(0,0,0,0.19);
+        color: white;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .button-family {
+        margin-top: 20px;
+        margin-right:35px;
+        margin-left: 80px;
+        width: 120px;
+        height: 30px;
+        border-color: 2px solid rgb(3, 3, 3);
+        border-radius: 12px;
+        background-color: #4F7B63;
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2), 5px 6px 6px 0 rgba(0,0,0,0.19);
+        color: white;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .button-fiveEleven {
+        margin-top: 20px;
+        margin-right:35px;
+        margin-left: 80px;
+        width: 80px;
+        height: 30px;
+        border-color: 2px solid rgb(3, 3, 3);
+        border-radius: 12px;
+        background-color: #4F7B63;
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2), 5px 6px 6px 0 rgba(0,0,0,0.19);
+        color: white;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .footer {
+        width:940px;
+        height: 50px;
+        padding: 15px;
+        background-color: #FAFAFA;
+    }
+    .footer ul li{
+        list-style-type: none;
+        display: inline-block;
+        color: black;
+        font-size: 15px; 
+        
+    }
+    .footer a {
+        color: black;
+        font-size: 20px;
+    }
+    .footerImg {
+        width: 20px;
+        height: 20px;
+    }
+    .footer h2 {
+        font-size: 19px;
+        margin-top: 5px;
+
+    }
+    .email {
+        width: 400px;
+        height: 100px;
+        display:inline-block;
+        margin-left: 300px;
+        margin-bottom: 5px;
+        text-align: center;
+    }

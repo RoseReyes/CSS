@@ -1,0 +1,280 @@
+#wrapper {
+    width: 1000px;
+    height: 800px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: rgba(181, 184, 154, 0.753);
+}
+#header {
+    height: 50px;
+    padding: 20px;
+}
+.image_header1 {
+    width: 110px;
+    height: 70px;
+    display:inline-block;
+    background-image: url("images/github.jpg");
+    background-repeat: no-repeat;
+    background-size: 110px;
+    margin-left: 215px;
+}
+.image_header2 {
+    width: 110px;
+    height: 70px;
+    display:inline-block;
+    vertical-align: top;
+    background-image: url("images/catandninja.png");
+    background-repeat: no-repeat;
+    background-size: 95px;
+    background-color: rgb(250, 246, 246);
+    margin-right: 70px;
+}
+#header h1 {
+    width:  265px;
+    display:inline-block;
+}
+#main_content {
+    height: 650px;
+    margin: 0px 45px 20px;
+    padding: 20px;
+}
+.subcontent1 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(7, 3, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/dojocat.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent2 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(7, 3, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/heisencat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent3 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(7, 3, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/linkcat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent4 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(5, 2, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/ironcat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent5 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(7, 3, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/defunktocat.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 130px;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent6 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(5, 2, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/coder2.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent7 {
+    width: 160px;
+    height: 150px;
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/riddlocat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent8 {
+    width: 160px;
+    height: 150px;
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/chellocat.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent9 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/stormtroopocat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent10 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/visionary.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent11 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/cherry.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent12 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/oktobercat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent13 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/mario.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent14 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/cooler.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent15 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/jean-luc-picat.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent16 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/aidorucat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent17 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/domo-cat.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent18 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/kantana.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent19 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(248, 108, 108);
+    background-image: url("images/daftpunk.gif");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
+.subcontent20 {
+    width: 160px;
+    height: 150px; 
+    outline: 3px solid rgb(12, 6, 0);
+    background-color: rgb(108, 180, 248);
+    background-image: url("images/codercat.jpg");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: center;
+    display:inline-block;
+    margin: 5px;
+}
