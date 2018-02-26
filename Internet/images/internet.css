@@ -1,6 +1,6 @@
 *
 {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 #wrapper {
@@ -65,7 +65,7 @@ margin: 0 auto;
     .red {
         color:red;
     }
-    .blue, {
+    .blue {
         color: #34659A;
     }
     .button-video {
@@ -99,34 +99,27 @@ margin: 0 auto;
     .ad-container {
         height: 325px;
         width: 190px;
-        margin-top: 25px;
-        margin-left: 5px;
-        background-image: url('ad_background.png');
+        background: url(ninja.png) center center no-repeat, url(ad_background.png) center center no-repeat;
+        background-size: 100px, 300px;
+        text-align: center;
+        padding: 5px;
         display:inline-block;
+        margin-top: 20px;
     }
-        .ad-title {
-        color: #FFFFFF;
-        font-size: 25px;
-        width: 155px;
-        margin-top: 5px;
-        margin-left: 20px;
-        text-align: center;  
+        .ad-container h1 {
+            width: 175px;
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin-left: 10px; 
         }
-        .ninja-img {
-            height: 150px;
-            width: 90px;
-            margin-top: 5px;
-            margin-left: 40px;
-        } 
         .button-ad {
             height: 30px;
             width:150px;
             border-radius: 5px;
             background-color:#61C4DB;
             color: white;
-            margin-top: 10px;
-            margin-left: 15px;
-           
+            margin-top: 170px;     
         }  
     .right-content {
         height: 670px;
