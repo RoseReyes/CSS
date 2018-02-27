@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    height: 749px;
+    width: 970px;
+    background-color: #DDDFD5;
+    margin: 0 auto;
+    padding: 15px;
+}
+.header {
+    height: 30px;
+    width: 930px;
+    padding: 20px;
+    background-color:#5CAEAC;
+}
+    .container {
+        height: 50px;
+        width: 200px;
+        display:inline-block;
+    }
+    .container img {
+        width: 40px;
+        height: 40px;
+        mix-blend-mode: multiply;
+        display:inline-block;
+    }
+    .container h1 {
+        display:inline-block;
+        vertical-align: top;
+        line-height: 40px;
+    }
+    .list-container {
+        height: 50px;
+        width: 600px;
+        display:inline-block;
+        vertical-align: top;
+        margin-left: 100px;
+        text-align: right;
+    }
+    .list-container a {
+        color: white;
+    }
+    .list-container ul li {
+        list-style-type: none;
+        display:inline-block;
+        vertical-align: top;
+        line-height: 35px;
+        margin-left: 15px;
+    }
+    .main-blocks {
+        width: 941px;
+        height: 551px;
+        background-color:#F8E69C;
+        margin: 10px 10px 10px 0px;
+        padding: 15px;
+    }
+    .side-block {
+        height: 525px;
+        width: 200px;
+        background-color: #203E43;
+        padding: 10px;
+        padding-right: 15px;
+        display:inline-block;
+        vertical-align: top;
+    }
+    .title{
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(212, 216, 196);
+        text-align: left;
+        margin-top: 20px;
+    }
+    .paragraph{
+        text-align: left;
+        font-size: 15px;
+        color: rgb(212, 216, 196);
+        margin-top: 20px;
+        margin-left: 10px;
+
+    }
+    .middle-blocks {
+        height: 552px;
+        width: 712px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .git-add {
+        height: 179px;
+        width: 190px;
+        background-color: #203E43;
+        display:inline-block;
+        vertical-align: top;
+        margin: 0 20px 10px 20px;
+    }
+    .git-middle-block {
+        height: 179px;
+        width: 315px;
+        background-color: #203E43;
+        display:inline-block;
+        vertical-align: top;
+        margin: 20px 5px 10px 20px;
+    }
+    .footer-block {
+        height: 129px;
+        width: 659px;
+        background-color: #203E43;
+        display:inline-block;
+        vertical-align: top;
+        margin: 20px 5px 10px 20px;
+    }
+    .title-footer {
+        margin-left: 5px;
+        margin-top: 10px;
+        color: rgb(212, 216, 196);
+    }
+    .paragraph-footer {
+        width: 600px;   
+        margin-left: 20px;
+        margin-top: 15px;
+        color: rgb(212, 216, 196);
+    }
+    span {
+        color: #77D9CB;
+    }
+    .footer {
+        height:75px;
+        width:971px;
+        background-color: #5CAEAC;
+        text-align: center;
+    }
+    .footer h2 {
+        padding: 30px;
+        font-size: 15px;
+        word-spacing: 3px;
+
+    }
+    .footer a {
+        color: #4E1B88;
+        font-size: 15px;
+    }
+    
+
+
